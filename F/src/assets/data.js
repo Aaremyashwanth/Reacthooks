@@ -1,0 +1,21 @@
+export const fixedImages=[{
+    item:"/ItemsPic/menu_1.png"
+},
+{
+    item:"/ItemsPic/menu_2.png"   
+},
+{
+    item:"/ItemsPic/menu_3.png"   
+},
+{
+    item:"/ItemsPic/menu_4.png"   
+},
+{
+    item:"/ItemsPic/menu_5.png"   
+},
+{
+    item:"/ItemsPic/menu_6.png"   
+},
+{
+    item:"/ItemsPic/menu_7.png"   
+},]

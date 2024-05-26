@@ -1,0 +1,19 @@
+.itemSection{
+    display: flex;
+    padding: auto;
+    margin: auto;
+    
+    
+}
+.gallery{
+    padding: 0px 15px;
+   
+    
+}
+.gallery img{
+    width: 80px;
+}
+.gallery img:hover{
+    background-color: blue;
+    border-radius: 33px;
+}
